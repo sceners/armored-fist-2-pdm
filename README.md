@@ -1,5 +1,5 @@
 # armored-fist-2-pdm
-Armored Fist 2 patch.
+Armored Fist 2 patch by Paradigm (PDM).
 
 https://defacto2.net/f/a919ece
 
